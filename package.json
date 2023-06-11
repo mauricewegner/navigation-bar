@@ -1,5 +1,5 @@
 {
-    "name": "@mauricewegner/capacitor-navigation-bar",
+    "name": "@ecnivtwelve/capacitor-navigation-bar",
     "version": "2.0.1",
     "description": "Capacitor Plugin for Navigation Bar",
     "main": "dist/plugin.cjs.js",
@@ -12,16 +12,16 @@
         "android/build.gradle",
         "dist/",
         "ios/Plugin/",
-        "MauricewegnerCapacitorNavigationBar.podspec"
+        "EcnivtwelveCapacitorNavigationBar.podspec"
     ],
-    "author": "mauricewegner",
+    "author": "ecnivtwelve",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mauricewegner/navigation-bar.git"
+        "url": "git+https://github.com/ecnivtwelve/navigation-bar.git"
     },
     "bugs": {
-        "url": "https://github.com/mauricewegner/navigation-bar/issues"
+        "url": "https://github.com/ecnivtwelve/navigation-bar/issues"
     },
     "keywords": [
         "capacitor",
